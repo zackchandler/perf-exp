@@ -1,0 +1,17 @@
+{
+  "name": "perf_exp",
+  "version": "1.0.0",
+  "scripts": {
+    "webpack": "node_modules/.bin/webpack"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.21",
+    "@types/react-dom": "^0.14.23",
+    "@types/webpack": "^2.2.14",
+    "webpack": "^2.3.3"
+  }
+}
